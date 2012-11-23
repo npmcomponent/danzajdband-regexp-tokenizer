@@ -1,0 +1,19 @@
+{
+  "name": "regexp-tokenizer",
+  "repo": "danzajdband/regexp-tokenizer",
+  "description": "Regexp tokenizer (from node-natural)",
+  "version": "0.0.1",
+  "keywords": ["regexp", "tokenizer"],
+  "dependencies": {
+    "component/inherit": "*",
+    "component/indexof": "*",
+    "component/select": "*",
+    "danzajdband/tokenizer": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@dzajdband"
+}
