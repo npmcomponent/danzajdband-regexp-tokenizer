@@ -1,8 +1,8 @@
 
-var inherit = require('inherit')
-  , select = require('select')
-  , indexof = require('indexof')
-  , Tokenizer = require('tokenizer');
+var inherit = require('component-inherit')
+  , select = require('component-select')
+  , indexof = require('component-indexof')
+  , Tokenizer = require('danzajdband-tokenizer');
 
 function RegexpTokenizer(options) {
   options = options || {};

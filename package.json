@@ -1,0 +1,16 @@
+{
+  "name": "danzajdband-regexp-tokenizer",
+  "description": "Regexp tokenizer (from node-natural)",
+  "version": "0.0.1",
+  "keywords": [
+    "regexp",
+    "tokenizer"
+  ],
+  "dependencies": {
+    "component-inherit": "git://github.com/npmcomponent/component-inherit.git",
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git",
+    "component-select": "git://github.com/npmcomponent/component-select.git",
+    "danzajdband-tokenizer": "git://github.com/npmcomponent/danzajdband-tokenizer.git"
+  },
+  "license": "MIT"
+}
